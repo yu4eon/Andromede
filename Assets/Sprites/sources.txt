@@ -1,0 +1,22 @@
+Majorité des assets pris de https://opengameart.org/content/space-shooter-redux
+Faites par Kenney
+
+Planètes viennent de https://opengameart.org/content/planets-8
+
+Coeurs viennent de https://opengameart.org/content/platformer-art-deluxe
+
+Éléments UI viennent de https://opengameart.org/content/ui-pack
+
+Explosion vient de https://opengameart.org/content/comic-explosion-kaboom
+
+Musique de fond vient de https://opengameart.org/content/enchanted-tiki-86
+
+Son bouton vient de https://opengameart.org/content/menu-selection-click
+
+Son Respawn et de bouclier vient du pack de space shooter https://opengameart.org/content/space-shooter-redux
+
+Son pause vient de https://opengameart.org/content/forward-button-press-ui-sound
+
+Son roche cassé vient de https://opengameart.org/content/moving-boulder
+
+Sons non mentionné sont faites avec sfxr
